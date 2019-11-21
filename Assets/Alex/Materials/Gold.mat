@@ -1,0 +1,121 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Gold
+  m_Shader: {fileID: -6465566751694194690, guid: fdf75f598e7df4fd59814b40285c0c9c,
+    type: 3}
+  m_ShaderKeywords: 
+  m_LightmapFlags: 0
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap:
+    MotionVector: User
+  disabledShaderPasses:
+  - MOTIONVECTORS
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - Texture2D_3CF55F1C:
+        m_Texture: {fileID: 2800000, guid: b2379fa189100bd41a34ac31f3d39c07, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - Texture2D_8183083A:
+        m_Texture: {fileID: 2800000, guid: 2b6288a68a8cf2941a59056af1ad295d, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - Texture2D_A1420833:
+        m_Texture: {fileID: 2800000, guid: 6e040f87671eb4dfa8a85f1ca310bef8, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _BaseTexture:
+        m_Texture: {fileID: 2800000, guid: b2379fa189100bd41a34ac31f3d39c07, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _MainTexture:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Main_Texture:
+        m_Texture: {fileID: 2800000, guid: a3eda7ec5daa2014e9883d0a5e9bb312, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _NormalMap:
+        m_Texture: {fileID: 2800000, guid: 2b6288a68a8cf2941a59056af1ad295d, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Normal_Map:
+        m_Texture: {fileID: 2800000, guid: 3cf574a91ae3f3a45bb77176da1c15e7, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _NormalsSecondary:
+        m_Texture: {fileID: 2800000, guid: 14afe250872801e4f8434561b70a3b6d, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Occlusion:
+        m_Texture: {fileID: 2800000, guid: 3cf574a91ae3f3a45bb77176da1c15e7, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _TextureSample0:
+        m_Texture: {fileID: 2800000, guid: ddf43ca461de3754dad9f444f1ec2ed0, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _texcoord:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Floats:
+    - Vector1_25C72C4D: 0.5
+    - Vector1_3A659913: 0.5
+    - Vector1_CDC45BF4: 1
+    - Vector1_E3707CF7: 3
+    - Vector1_EDB4ABBE: 2
+    - _ASEOutlineWidth: 0.03
+    - _Cutoff: 0.5
+    - _Distribution: 7.14
+    - _Float2: 0.7
+    - _GlowSpeed: 5
+    - _Metallic: 0.8
+    - _NormalScale: 0.05
+    - _Opacity: 1
+    - _Outline: 0
+    - _OutlineBias: 0
+    - _OutlinePower: 6.01
+    - _OutlinePulseSpeed: 0.5
+    - _OutlineScale: 3.28
+    - _Range: -10
+    - _Reverse: 0
+    - _SizeMax: -1.5
+    - _SizeMin: 3.75
+    - _Slice: 0.98
+    - _Smoothness: 0.83
+    - _Speed: 4.9
+    - _StartPoint: 4.7
+    - _Strength: -0.1
+    - _ThicknessX: 0.2
+    - _ThicknessY: 0.8
+    - _ToggleSwitch0: 0
+    - __dirty: 0
+    m_Colors:
+    - Albedo_Secondary_Color: {r: 1.4862195, g: 1.0168165, b: 0, a: 0}
+    - Color_6B731F6E: {r: 2.1132076, g: 1.7750944, b: 0, a: 1}
+    - _ASEOutlineColor: {r: 0, g: 0, b: 0, a: 0}
+    - _AlbeddoColor: {r: 2.9960785, g: 2.854902, b: 0, a: 0}
+    - _AlbedoSecondaryColor: {r: 5.992157, g: 4.9882355, b: 0, a: 0}
+    - _AlbedoTint: {r: 2, g: 1.5634038, b: 0, a: 0}
+    - _Color0: {r: 2.166354, g: 1.8714573, b: 0, a: 0}
+    - _Direction: {r: 0, g: 1, b: 0, a: 0}
+    - _GlowColor: {r: 27.105883, g: 2.3843138, b: 0, a: 0}
+    - _GradientBottom: {r: 2, g: 0.51474905, b: 0, a: 0}
+    - _GradientTop: {r: 2.670157, g: 2.096982, b: 0, a: 0}
+    - _Main_Color: {r: 5.3403134, g: 5.3403134, b: 5.3403134, a: 0}
+    - _NoiseScale: {r: 20, g: 20, b: 0, a: 0}
+    - _NoiseTiling: {r: 50, g: 100, b: 0, a: 0}
+    - _Noise_Tiling: {r: 100, g: 100, b: 0, a: 0}
+    - _SpeedGrid: {r: -2, g: 1, b: 0, a: 0}

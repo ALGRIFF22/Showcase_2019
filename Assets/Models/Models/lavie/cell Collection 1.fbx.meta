@@ -1,0 +1,164 @@
+fileFormatVersion: 2
+guid: b7633f90662b94e43bd7c3a685c53f52
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Monocyte
+    100004: Monocyte_nucleus
+    100006: Neutrophil_highPoly
+    100008: Neutrophil_Nucleus
+    100010: NKCell
+    100012: NKCell_LargeNucleus
+    100014: Platelet_01
+    100016: Platelet_02
+    100018: Platelet_03
+    100020: small_spheres
+    100022: Sphere.004
+    100024: Sphere.005
+    100026: Sphere.006
+    100028: worms
+    400000: //RootNode
+    400002: Monocyte
+    400004: Monocyte_nucleus
+    400006: Neutrophil_highPoly
+    400008: Neutrophil_Nucleus
+    400010: NKCell
+    400012: NKCell_LargeNucleus
+    400014: Platelet_01
+    400016: Platelet_02
+    400018: Platelet_03
+    400020: small_spheres
+    400022: Sphere.004
+    400024: Sphere.005
+    400026: Sphere.006
+    400028: worms
+    2100000: No Name
+    2100002: Neutrophil_outer
+    2100004: Neutrophil_Large_Nucleus
+    2100006: Neutrophil_Small Float
+    2300000: Monocyte
+    2300002: Monocyte_nucleus
+    2300004: Neutrophil_highPoly
+    2300006: Neutrophil_Nucleus
+    2300008: NKCell
+    2300010: NKCell_LargeNucleus
+    2300012: Platelet_01
+    2300014: Platelet_02
+    2300016: Platelet_03
+    2300018: small_spheres
+    2300020: Sphere.004
+    2300022: Sphere.005
+    2300024: Sphere.006
+    2300026: worms
+    3300000: Monocyte
+    3300002: Monocyte_nucleus
+    3300004: Neutrophil_highPoly
+    3300006: Neutrophil_Nucleus
+    3300008: NKCell
+    3300010: NKCell_LargeNucleus
+    3300012: Platelet_01
+    3300014: Platelet_02
+    3300016: Platelet_03
+    3300018: small_spheres
+    3300020: Sphere.004
+    3300022: Sphere.005
+    3300024: Sphere.006
+    3300026: worms
+    4300000: Platelet_03
+    4300002: Sphere.004
+    4300004: Platelet_02
+    4300006: Sphere.006
+    4300008: Platelet_01
+    4300010: Sphere.005
+    4300012: NKCell
+    4300014: worms
+    4300016: small_spheres
+    4300018: NKCell_LargeNucleus
+    4300020: Monocyte
+    4300022: Monocyte_nucleus
+    4300024: Neutrophil_highPoly
+    4300026: Neutrophil_Nucleus
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

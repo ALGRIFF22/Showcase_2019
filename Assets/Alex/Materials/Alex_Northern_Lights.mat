@@ -1,0 +1,78 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Alex_Northern_Lights
+  m_Shader: {fileID: 4800000, guid: 5f5ccbc584126394995428b6d287d5b7, type: 3}
+  m_ShaderKeywords: 
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - _AlphaChannel:
+        m_Texture: {fileID: 2800000, guid: 4e0e7b4ce0a923d44ac20f567592239e, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _MainTexture:
+        m_Texture: {fileID: 2800000, guid: 10f3bb562324c774f935011e9c729bca, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Texture0:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _texcoord:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Floats:
+    - _AlphaIntensity: 1.69
+    - _AlphaSpeed: 1.5
+    - _AlphaWaveSpeed: 0.05
+    - _BeamIntensity: 1.2
+    - _ColorSlider: 0.22
+    - _Cutoff: 0.5
+    - _EmissionStrength: 1.87
+    - _Float0: -0.71
+    - _Intensity: 1.18
+    - _Opacity: 0.98
+    - _SecondarySpeed: 0.03
+    - _SecondaryWaveSpeed: 0.03
+    - _SkyFallOff: -0.87
+    - _UVSpeed: 0.1
+    - _VOStrength: 0.07
+    - _WaveSpeed: 0.15
+    - _WaveTile: 0.1
+    - _WispIntensity: 0.74
+    - _WispVisibility: 3.47
+    - __dirty: 0
+    m_Colors:
+    - _AlphaTiling: {r: 2.82, g: 1, b: 0, a: 0}
+    - _AlphaWaveDirection: {r: 1, g: 0, b: 0, a: 0}
+    - _Color0: {r: 0.0235849, g: 1, b: 0.9426929, a: 0}
+    - _Color1: {r: 0.031372547, g: 0.56062883, b: 1, a: 0}
+    - _Color2: {r: 0, g: 1, b: 0.09169245, a: 0}
+    - _MainColor: {r: 0.1386614, g: 0.7169812, b: 0.6925877, a: 0}
+    - _Offset: {r: 1, g: 0, b: 0, a: 0}
+    - _SecondaryMoveDirection: {r: 1, g: 0, b: 0, a: 0}
+    - _SecondaryTiling: {r: 3.68, g: 1, b: 0, a: 0}
+    - _SecondaryWaveDirection: {r: 1, g: 0, b: 0, a: 0}
+    - _Tiling: {r: 1, g: 1, b: 0, a: 0}
+    - _UVDirection: {r: 1, g: 0, b: 0, a: 0}
+    - _UVSpeed: {r: 1, g: 1, b: 0, a: 0}
+    - _VODirection: {r: 0, g: 1, b: 0, a: 0}
+    - _VO_Direction: {r: 0, g: 1, b: 0, a: 0}
+    - _Vector0: {r: 0, g: 1.07, b: 0, a: 0}
+    - _Vector1: {r: 0.18, g: -1.25, b: 0, a: 0}
+    - _WaveDirection: {r: 1, g: 0, b: 0, a: 0}
+    - _WaveTiling: {r: 2, g: 1, b: 0, a: 0}
